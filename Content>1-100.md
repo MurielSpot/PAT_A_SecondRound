@@ -1,5 +1,5 @@
 # PAT甲级
-## [字符串A1001(20).cpp](PAT_A_SecondRound/字符串A1001(20).cpp)PAT_A_SecondRound/字符串A1001(20).cpp
+## [字符串A1001(20).cpp](/src/com/PAT_A_SecondRound/字符串A1001(20).cpp)
 ac:1次
 
 难度:1
